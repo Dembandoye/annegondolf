@@ -26,10 +26,10 @@ define( 'DB_NAME', 'liveevent' );
 define( 'DB_USER', 'root' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'root' );
+define( 'DB_PASSWORD', 'M0zart4ever!' );
 
 /** MySQL hostname */
-define( 'DB_HOST', '127.0.0.1:8889' );
+define( 'DB_HOST', '142.93.244.193:3306' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
@@ -65,7 +65,10 @@ define( 'WP_CACHE_KEY_SALT', '|WQc[i%qZH>`WI,xj/Fi{sV=QS@i[7*&W!H=L[^UXTQFN=d${d
 $table_prefix = 'wp_';
 
 
-
+// This enables debugging.
+define( 'WP_DEBUG', true );
+define( 'WP_DEBUG_LOG', true );
+define( 'SAVEQUERIES', true );
 
 /* That's all, stop editing! Happy publishing. */
 
