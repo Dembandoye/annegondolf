@@ -1,0 +1,41 @@
+2018-01-11T11:07:19+00:00 CRITICAL Call to a member function is_type() on boolean
+
+2018-01-11T11:09:55+00:00 CRITICAL Call to a member function is_type() on boolean
+
+2018-01-11T11:11:56+00:00 CRITICAL Call to a member function is_type() on boolean
+
+2018-01-11T11:12:23+00:00 CRITICAL Uncaught exception 'Exception' with message 'Invalid product.' in /home/leafco5/public_html/demo/conferencepro/wp-content/plugins/woocommerce/includes/data-stores/class-wc-product-data-store-cpt.php:136
+Stack trace:
+#0 /home/leafco5/public_html/demo/conferencepro/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(147): WC_Product_Data_Store_CPT->read(Object(WC_Product))
+#1 /home/leafco5/public_html/demo/conferencepro/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(126): WC_Data_Store->read(Object(WC_Product))
+#2 /home/leafco5/public_html/demo/conferencepro/wp-content/themes/conferencepro/tribe-events/single-event.php(92): WC_Product->__construct(2287)
+#3 /home/leafco5/public_html/demo/conferencepro/wp-content/plugins/the-events-calendar/src/functions/template-tags/general.php(45): include('/home/leafco5/p...')
+#4 /home/leafco5/public_html/demo/conferencepro/wp-content/plugins/the-events-calendar/src/Tribe/Templates.php(483): tribe_get_view()
+#5 [internal function]: Tribe
+
+2018-01-11T11:13:38+00:00 CRITICAL Call to a member function get_type() on boolean
+
+2018-01-11T11:14:20+00:00 CRITICAL Uncaught exception 'Exception' with message 'Invalid product.' in /home/leafco5/public_html/demo/conferencepro/wp-content/plugins/woocommerce/includes/data-stores/class-wc-product-data-store-cpt.php:136
+Stack trace:
+#0 /home/leafco5/public_html/demo/conferencepro/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(147): WC_Product_Data_Store_CPT->read(Object(WC_Product))
+#1 /home/leafco5/public_html/demo/conferencepro/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(126): WC_Data_Store->read(Object(WC_Product))
+#2 /home/leafco5/public_html/demo/conferencepro/wp-content/themes/conferencepro/tribe-events/single-event.php(93): WC_Product->__construct('50')
+#3 /home/leafco5/public_html/demo/conferencepro/wp-content/plugins/the-events-calendar/src/functions/template-tags/general.php(45): include('/home/leafco5/p...')
+#4 /home/leafco5/public_html/demo/conferencepro/wp-content/plugins/the-events-calendar/src/Tribe/Templates.php(483): tribe_get_view()
+#5 [internal function]: Tribe
+
+2018-01-11T11:14:39+00:00 CRITICAL Uncaught exception 'Exception' with message 'Invalid product.' in /home/leafco5/public_html/demo/conferencepro/wp-content/plugins/woocommerce/includes/data-stores/class-wc-product-data-store-cpt.php:136
+Stack trace:
+#0 /home/leafco5/public_html/demo/conferencepro/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(147): WC_Product_Data_Store_CPT->read(Object(WC_Product))
+#1 /home/leafco5/public_html/demo/conferencepro/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(126): WC_Data_Store->read(Object(WC_Product))
+#2 /home/leafco5/public_html/demo/conferencepro/wp-content/themes/conferencepro/tribe-events/single-event.php(93): WC_Product->__construct('50')
+#3 /home/leafco5/public_html/demo/conferencepro/wp-content/plugins/the-events-calendar/src/functions/template-tags/general.php(45): include('/home/leafco5/p...')
+#4 /home/leafco5/public_html/demo/conferencepro/wp-content/plugins/the-events-calendar/src/Tribe/Templates.php(483): tribe_get_view()
+#5 [internal function]: Tribe
+
+2018-02-07T10:33:31+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-09T15:21:38+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-12T16:28:20+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+

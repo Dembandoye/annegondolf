@@ -1,0 +1,137 @@
+@charset "utf-8";
+body{
+	direction:rtl;
+	text-align:right;
+}
+.text-center{ text-align:center; }
+@media (min-width: 768px){
+.navbar-header {
+    float: right;
+}
+.navbar-right {
+    float: left !important;
+}
+.navbar-left {
+    float: right !important;
+}
+}
+.main-menu li *{
+	direction:ltr;
+}
+.dropdown-submenu>a:after{ float:left;}
+.page-heading .col-md-8.col-sm-8{ float:right; }
+.input-group{
+	direction:ltr;
+}
+.normal-sidebar .widget ul{ padding-right:0;}
+.normal-sidebar .widget ul li:before {
+	margin-right: 0px;
+	margin-left: 10px;
+}
+.leaf_row{
+	direction: ltr;
+}
+.leaf_row > *{
+	direction: rtl;
+}
+.post-item .btn .fa-angle-right{
+	transform:rotate(180deg);
+	-webkit-transform:rotate(180deg);
+}
+.social-share-hover {
+    float: left !important;
+    margin-left: 0;
+    margin-right: -100%;
+}
+.leaf-icon-box *{ direction:ltr;}
+.leaf-icon-box .text-center *{ text-align:center}
+.leaf-banner-item{ direction:ltr;}
+.leaf-banner-content:before {
+    left: auto;
+    right: 40px;
+}
+.leaf-timeline .timeline-box-title {
+    text-align: right;
+}
+.compare-table-price:before {
+    left: auto;
+    right: 30px;
+}
+.post-grid-item{ text-align:left; }
+.leaf-member-info-inner{ direction:ltr;}
+.tribe-events-list-widget ol{ padding:0; }
+.footer-social{ direction:ltr; }
+.iapp-showcase-shortcode *{ direction:ltr}
+.owl-theme .owl-controls .owl-pagination{ text-align:center}
+.leaf-post-slider *{ direction:ltr;}
+.post-slider-carousel .owl-controls .owl-pagination{ text-align:center}
+.member *{ direction:ltr; text-align:center}
+.member .img-mb{ text-align:left}
+.widget-title:before{ right:0; left:auto}
+.item-content .meta:before{ right:0; left:auto}
+.item-meta .btn{ margin-right:0; margin-left:auto}
+.leaf-event-carousel *{ direction:ltr}
+.carousel-has-control.owl-theme .owl-controls .owl-prev, .carousel-has-control.owl-theme .owl-controls .owl-next{ text-align:center}
+.testimonials *{ direction:ltr; text-align:center}
+.init-carousel *{ direction:ltr}
+.ias-devide-wrap *{ direction:ltr}
+.item-content .item-title:before{ right:0; left:auto}
+.blog-item-wide .item-content .item-title:before {
+    left: 50%;
+    margin-left: -40px;
+    right: auto;
+}
+.ia-heading.heading-align-left h2:before{ right:0; left:auto}
+.wpb_wrapper .wpb_accordion .wpb_accordion_wrapper .ui-state-default .ui-icon{ direction:ltr; left: 20px; right:auto}
+.wpb_wrapper .wpb_content_element .wpb_tour_tabs_wrapper .wpb_tabs_nav li{ float:right}
+
+#bbpress-forums li.bbp-header .bbp-reply-content,
+.bbp-body li.bbp-topic-freshness, #bbpress-forums .bbp-body li.bbp-forum-freshness{
+	direction:ltr;
+	text-align:right;
+}
+.forum-archive #bbpress-forums .type-forum p.bbp-topic-meta span a:last-child{ margin-left:auto; margin-right:0}
+#bbpress-forums .bbp-forums-list{ direction:ltr; text-align:right}
+#bbpress-forums li.bbp-forum-info,
+.forum-archive #bbpress-forums .bbp-forum-info .bbp-forum-content{ text-align:right}
+#bbpress-forums .bbp-forums-list li:last-child{ margin-right:0}
+#bbpress-forums .bbp-body li.bbp-forum-topic-count, .bbp-body li.bbp-topic-reply-count, .bbp-body li.bbp-topic-voice-count, #bbpress-forums .bbp-body li.bbp-forum-reply-count{ text-align:center}
+.single-forum .bbp-topics .bbp-body ul li.bbp-topic-title{ text-align:right}
+.single-forum .bbp-body li.bbp-topic-freshness{ text-align:right}
+#bbpress-forums fieldset.bbp-form label{ direction:ltr}
+#bbpress-forums fieldset.bbp-form #bbp_topic_subscription{ margin-right:10px}
+#bbpress-forums fieldset.bbp-form label[for=bbp_topic_subscription]{ margin-right:20px}
+div.bbp-submit-wrapper{ float:right}
+#bbpress-forums div.bbp-reply-content,
+#bbpress-forums .bbp-forum-info .bbp-forum-content{ text-align:right}
+.bbp-pagination .bbp-pagination-count{direction: ltr;}
+#bbpress-forums fieldset.bbp-form legend{direction: ltr; text-align: right;}
+.single-forum #bbpress-forums .bbp-body li.bbp-forum-freshness .date-post{margin-bottom: -20px;}
+#bbpress-forums div.bbp-reply-author *{ direction:ltr; text-align:center}
+li.bbp-header div.bbp-reply-content span#subscription-toggle{ direction:ltr}
+.bbp-topic-freshness .date-post a, #bbpress-forums .bbp-body li.bbp-forum-freshness .date-post a{ right:50px; direction:ltr}
+#bbpress-forums .bbp-body li.bbp-forum-freshness .bbp-author-name{ margin-right:6px;}
+li.bbp-forum-freshness, li.bbp-topic-freshness,
+li.bbp-forum-topic-count, li.bbp-topic-voice-count, li.bbp-forum-reply-count, li.bbp-topic-reply-count, li.bbp-forum-freshness{ text-align: center}
+
+.woocommerce #review_form #respond .cm-text, .woocommerce-page #review_form #respond .cm-text{ padding-right:70px; padding-left:0}
+.woocommerce #reviews #comments ol.commentlist li img.avatar, .woocommerce-page #reviews #comments ol.commentlist li img.avatar{ right:0; left:auto}
+.single-product.woocommerce #reviews #comments ol.commentlist li .comment-text, .single-product.woocommerce-page #reviews #comments ol.commentlist li .comment-text{ margin-right:70px; margin-left:0; padding-left:0}
+.single-post-navigation *{ direction:ltr; }
+.single-post .comments-area .ia-heading h2:before {
+    right: 0;
+}
+.showcase-style-hero > .row{ text-align:center}
+#pageloader *{ direction:ltr; text-align:left}
+.woocommerce-shipping-fields h3:before, #order_review_heading:before, .woocommerce-billing-fields h3:before{ right:0; left:auto}
+#order_review_heading:before{ margin-right:20px}
+#order_review_heading{ padding-right:20px}
+ .woocommerce-page table.shop_table th.product-name,
+.woocommerce #payment ul.payment_methods li, .woocommerce-page #payment ul.payment_methods li{ text-align:right}
+.woocommerce #payment div.payment_box, .woocommerce-page #payment div.payment_box{ padding-right:0}
+.woocommerce #payment ul.payment_methods li input, .woocommerce-page #payment ul.payment_methods li input{ margin-right:0}
+.woocommerce-checkout .form-row .chosen-container-single .chosen-single div b:before{ right:10px}
+.product-subtotal{ text-align:right}
+.customer_details dd{ margin-right:0}
+.woocommerce .order_details li, .woocommerce-page .order_details li,
+.woocommerce .addresses .title h3, .woocommerce-page .addresses .title h3{ float:right}

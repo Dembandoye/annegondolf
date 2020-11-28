@@ -1,0 +1,248 @@
+#wrapper {
+
+}
+
+#MainView {
+    margin: 10px 1%;
+    padding: 25px 40px;
+    width: 76%;
+    float: left;
+    border-radius: 10px;
+    box-shadow: 0px 1px 25px -2px rgba(0,0,0,0.4);
+    box-sizing: border-box;
+}
+
+#sidebar {
+    box-sizing: border-box;
+	float: left;
+    width: 20%;
+    margin: 10px 1%;
+}
+
+#MainView h2 {
+	padding-bottom: 10px;
+}
+
+#sidebar ul {
+	border-radius: 10px;
+    box-shadow: 0px 1px 25px -2px rgba(0,0,0,0.4);
+    list-style: none;
+    margin: 0 0 10px;
+    overflow: hidden;
+}
+
+#sidebar ul li{
+    margin-bottom: 0
+}
+#sidebar ul li a{
+    display: block;
+    padding: 20px;
+    border-bottom: solid 1px #ddd;
+    text-decoration: none;
+    color: #666;
+    font-size: 14px;
+    outline: none;
+}
+#sidebar ul li a:hover{
+    background: #fff;
+    border-bottom-color: #fff;
+    color: #666;
+}
+#sidebar ul li a.current{
+    background: #08911f;
+    border-bottom-color: #08911f;
+    color: #fff;
+}
+#sidebar ul li a i{
+    margin-right: 8px;
+}
+
+#backupForm #create-backup-option {
+    margin-bottom: 5px;
+}
+
+#RestoreOptions, #file_directory {
+    display: none;
+}
+
+.width-60 {
+    max-width: 60%;
+}
+div.info {
+    padding: 15px 30px;
+    margin: 30px 0;
+    background: rgba(0,0,0,0.05);
+    border-radius: 10px;
+}
+
+div.try {
+    display: block;
+}
+
+table.restore-backup-options {
+    padding: 0 5px;
+    border-collapse: collapse;
+}
+
+table.restore-backup-options td, table.restore-backup-options th {
+    border: 1px solid #ccc;
+    padding: 3px;
+}
+
+.error {
+    border: solid 1px #c00;
+    padding: 5px;
+    background-color: #FFEBE8;
+    text-align: center;
+    border-radius: 5px;
+    -moz-box-shadow: 5px 5px 15px #aaa;
+    -webkit-box-shadow: 5px 5px 15px #aaa;
+    box-shadow: 5px 5px 15px #aaa;
+}
+
+.deleted {
+    background: #00cc99;
+    text-align: center;
+}
+
+.delete-error {
+    text-align: center;
+    background: #fff0b3;
+}
+
+a#close-thickbox {    
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-weight: bold;
+}
+
+div#search-n-replace {
+    display: none;
+    position: relative;
+}
+
+div#search-n-replace-info{
+    min-height: 20px;
+}
+
+a.copy-button {
+}
+
+.btn-primary.active, .btn-warning.active, .btn-danger.active, .btn-success.active, .btn-info.active, .btn-inverse.active {
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.btn {
+    border: none;
+	margin: 20px 0;
+	padding: 15px 30px;
+	font-size: 1.5em;
+	font-weight: 100;
+    border-radius: 60px;
+    outline: none;
+    cursor: pointer;
+}
+
+input[type="submit"].btn-primary {
+    background-color: #08911f;
+    color: #FFFFFF;
+}
+
+input[type="submit"].btn-primary:hover, input[type="submit"].btn-primary:active, .btn-primary.active, .btn-primary.disabled, .btn-primary[disabled] {
+    background-color: #222;
+    color: #ffffff;
+}
+.btn-primary:active, .btn-primary.active {
+}
+
+input[type="submit"].btn-warning {
+    background-color: #FAA732;
+    color: #FFFFFF;
+}
+input[type="submit"].btn-warning:hover, input[type="submit"].btn-warning:active, .btn-warning.active, .btn-warning.disabled, .btn-warning[disabled] {
+    background-color: #09921f;
+    color: #FFFFFF;
+}
+
+textarea {
+    width: 100%;
+    padding: 0px
+}
+
+input.Url {
+    width: 80%;
+    padding: 0px
+}
+
+.btn-warning:active, .btn-warning.active {
+}
+
+.wpclone_notice {
+    max-width: 500px;
+    padding: 5px;
+    margin: 25px 0 0 0;
+    border-radius: 5px;
+}
+
+.restore-backup-options{
+    margin: 0 -15px;
+}
+.restore-backup-options li{
+    float: left;
+    display: block;
+    width: 33.3333%;
+    padding: 0 15px 30px 15px;
+    box-sizing: border-box;
+    line-height: 1;
+}
+@media(max-width: 767px){
+.restore-backup-options li{
+    width: 100%;
+}
+}
+.restore-backup-options li h4{
+    margin: 15px 10px 18px;
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 1.3em;
+    font-size: 15px;
+}
+.restore-backup-options li h4 span{
+    display: block;
+    font-size: 10px;
+    opacity: .8;
+}
+.restore-backup-options li label{
+    display: block;
+    background: #f5f5f5;
+    box-shadow: 0 1px 15px -1px rgba(0,0,0,0.15);
+    padding: 0;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: .2s;
+}
+.restore-backup-options li label:hover{
+    box-shadow: 0 3px 25px rgba(0,0,0,0.3);
+}
+.restore-backup-options li .restoreBackup{
+    display: none;
+}
+.restore-backup-options li .restoreBackup:checked + label{
+    background: #08911f;
+    color: #fff;
+    box-shadow: 0 1px 25px #08911f;
+}
+.restore-backup-options li .clone-img{
+    overflow: hidden;
+    padding-top: 100%;
+    position: relative;
+}
+.restore-backup-options li img{
+    max-width: 100%;
+    height: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}

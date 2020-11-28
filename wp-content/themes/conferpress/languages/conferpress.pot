@@ -1,0 +1,2802 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: conferpress\n"
+"POT-Creation-Date: 2018-03-09 20:41+0700\n"
+"PO-Revision-Date: 2018-03-09 20:42+0700\n"
+"Last-Translator: \n"
+"Language-Team: leafcolor <leafcolor.com@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_html__;esc_html_e;"
+"esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: conferpress/404.php:2
+msgid "Page not found"
+msgstr ""
+
+#: conferpress/404.php:32
+msgid "Try a search..."
+msgstr ""
+
+#: conferpress/attachment.php:63 conferpress/single.php:57
+#: conferpress/tribe-events/single-event.php:134
+msgid "Previous"
+msgstr ""
+
+#: conferpress/attachment.php:68 conferpress/single.php:76
+#: conferpress/tribe-events/single-event.php:153
+msgid "Next"
+msgstr ""
+
+#: conferpress/comments.php:34
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: conferpress/comments.php:35
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: conferpress/comments.php:43
+msgid "Leave a comment"
+msgstr ""
+
+#: conferpress/comments.php:48
+msgid "Your comment..."
+msgstr ""
+
+#: conferpress/footer.php:40
+msgid "ConferPress WordPress Theme by Leafcolor &copy;"
+msgstr ""
+
+#: conferpress/footer.php:96
+#: conferpress/templates/header/header-navigation.php:19
+#: conferpress/templates/header/header-navigation.php:21
+#: conferpress/templates/header/header-navigation.php:25
+#: conferpress/templates/header/header-navigation.php:40
+msgid "Home"
+msgstr ""
+
+#: conferpress/footer.php:109
+msgid "TYPE AND HIT ENTER..."
+msgstr ""
+
+#: conferpress/functions.php:18
+msgid "Option Tree"
+msgstr ""
+
+#: conferpress/functions.php:23
+msgid "The Event Calendar"
+msgstr ""
+
+#: conferpress/functions.php:28 conferpress/inc/option-tree-hook.php:53
+msgid "WooCommerce"
+msgstr ""
+
+#: conferpress/functions.php:33
+msgid "Contact Form 7"
+msgstr ""
+
+#: conferpress/functions.php:38
+msgid "WP Pagenavi"
+msgstr ""
+
+#: conferpress/functions.php:70
+msgid "Primary Menus"
+msgstr ""
+
+#: conferpress/functions.php:71
+msgid "Off Canvas Menus"
+msgstr ""
+
+#: conferpress/functions.php:152
+msgid "Main Sidebar"
+msgstr ""
+
+#: conferpress/functions.php:154
+msgid ""
+"Appears on posts and pages except the optional Front Page template, which "
+"has its own widgets"
+msgstr ""
+
+#: conferpress/functions.php:161
+msgid "Pathway Sidebar"
+msgstr ""
+
+#: conferpress/functions.php:163
+msgid "Replace Pathway (Breadcrumbs) with your widgets"
+msgstr ""
+
+#: conferpress/functions.php:170
+msgid "Front Page Sidebar "
+msgstr ""
+
+#: conferpress/functions.php:172
+msgid "Used in Front Page templates only"
+msgstr ""
+
+#: conferpress/functions.php:179
+msgid "Bottom Sidebar"
+msgstr ""
+
+#: conferpress/functions.php:181
+msgid "Bottom of page (above Footer)"
+msgstr ""
+
+#: conferpress/functions.php:188
+msgid "Footer Sidebar"
+msgstr ""
+
+#: conferpress/functions.php:198
+msgid "Woocommerce Sidebar"
+msgstr ""
+
+#: conferpress/functions.php:200
+msgid "Appears on Woocommerce pages"
+msgstr ""
+
+#: conferpress/functions.php:218
+msgid "SEARCH"
+msgstr ""
+
+#: conferpress/functions.php:224
+msgid "Search Result: "
+msgstr ""
+
+#: conferpress/functions.php:232
+msgid "Author: "
+msgstr ""
+
+#: conferpress/functions.php:234 conferpress/functions.php:236
+#: conferpress/functions.php:238
+msgid "Archives for "
+msgstr ""
+
+#: conferpress/functions.php:270
+msgid "Search Results for"
+msgstr ""
+
+#: conferpress/functions.php:271
+msgid "Tag"
+msgstr ""
+
+#: conferpress/functions.php:272 conferpress/inc/option-tree-hook.php:508
+#: conferpress-shortcodes/shortcodes/blog.php:217
+#: conferpress-shortcodes/shortcodes/post-carousel.php:266
+#: conferpress-shortcodes/shortcodes/post-grid.php:185
+#: conferpress-shortcodes/shortcodes/post-list.php:239
+#: conferpress-shortcodes/shortcodes/post-slider.php:292
+#: conferpress-shortcodes/shortcodes/post-timeline.php:199
+#: conferpress-shortcodes/shortcodes/product-woo.php:194
+msgid "Author"
+msgstr ""
+
+#: conferpress/functions.php:273 conferpress/inc/option-tree-hook.php:41
+msgid "404"
+msgstr ""
+
+#: conferpress/functions.php:298 conferpress/inc/starter/leaf-core.php:142
+#: conferpress/inc/starter/leaf-core.php:145
+#: conferpress-shortcodes/shortcodes/blog.php:123
+msgid "Blog"
+msgstr ""
+
+#: conferpress/functions.php:432
+msgid "Page"
+msgstr ""
+
+#: conferpress/functions.php:484
+msgid "Row Schema (Theme's style)"
+msgstr ""
+
+#: conferpress/functions.php:487 conferpress/inc/option-tree-hook.php:299
+#: conferpress/inc/meta/page-metadata.php:23
+msgid "Default"
+msgstr ""
+
+#: conferpress/functions.php:488 conferpress/inc/option-tree-hook.php:337
+#: conferpress-shortcodes/shortcodes/button.php:111
+msgid "Dark"
+msgstr ""
+
+#: conferpress/functions.php:490
+msgid ""
+"Choose row scheme (in Dark, default text, buttons will have white color)"
+msgstr ""
+
+#: conferpress/page.php:20 conferpress/templates/single/content-single.php:17
+msgid "Pages:"
+msgstr ""
+
+#: conferpress/page.php:26 conferpress/templates/single/content-single.php:23
+msgid "Next page"
+msgstr ""
+
+#: conferpress/page.php:27 conferpress/templates/single/content-single.php:24
+msgid "Previous page"
+msgstr ""
+
+#: conferpress/bbpress/loop-single-topic.php:60
+#, php-format
+msgid "Started by: %1$s"
+msgstr ""
+
+#: conferpress/bbpress/loop-single-topic.php:68
+#, php-format
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:13
+msgid "General"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:17
+msgid "Colors & Background"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:21
+msgid "Fonts"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:25
+msgid "Main Navigation"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:29
+msgid "Single Post"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:33
+msgid "Single Page"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:37
+msgid "Archives"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:45
+#: conferpress/inc/widgets/latest-post-type.php:256
+msgid "Event"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:49
+#: conferpress-member/member-shortcode.php:93 conferpress-member/member.php:52
+#: conferpress-member/member.php:53 conferpress-member/member.php:64
+#: conferpress-shortcodes/shortcodes/post-grid.php:132
+#: conferpress-shortcodes/shortcodes/post-list.php:186
+msgid "Member"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:57
+msgid "Social Accounts"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:61
+msgid "Social Sharing"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:68
+msgid "Copyright Text"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:69
+msgid "Appear in footer"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:76
+msgid "RTL mode"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:84
+msgid "Enable RTL"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:91
+msgid "Custom CSS"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:92
+msgid "Enter custom CSS. Ex: .class{ font-size: 13px; }"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:104
+msgid "Custom Code"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:105
+msgid "Enter custom code or JS code here. For example, enter Google Analytics"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:116
+msgid "Logo Image"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:117
+msgid "Upload your logo image"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:128
+msgid "Retina Logo (optional)"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:129
+msgid ""
+"Retina logo should be two time bigger than the custom logo. Retina Logo is "
+"optional, use this setting if you want to strictly support retina devices."
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:140
+msgid "Footer Logo Image"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:141
+msgid "Upload Footer logo image"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:152
+msgid "Login Logo Image"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:153
+msgid "Upload your Admin Login logo image"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:164
+msgid "Pre-loading Effect"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:165
+msgid "Enable Pre-loading Effect"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:173
+msgid "Disable"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:178
+msgid "Enable"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:183
+msgid "Enable for Homepage Only"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:190
+msgid "Pre-Loading Background Color"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:191
+msgid "Default is Black"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:198
+msgid "Pre-Loading Spinners Color"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:199
+msgid "Default is Main color"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:207
+msgid "Main color"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:208
+msgid "Choose Main color (Default is #39ba93)"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:220
+msgid "Page Heading Background"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:221
+msgid "Choose Page Heading background (Default is Main color)"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:228
+msgid "Footer Background Color"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:229
+msgid "Choose Footer background color (Default is Main color)"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:239
+msgid "Main Font Family"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:240
+#: conferpress/inc/option-tree-hook.php:257
+msgid ""
+"Enter font-family name here. <a href=\"http://www.google.com/fonts/\" target="
+"\"_blank\">Google Fonts</a> are supported. For example, if you choose "
+"\"Source Code Pro\" Google Font with font-weight 400,500,600, enter "
+"<i>Source Code Pro:400,500,600</i>"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:247
+msgid "Main Font Size"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:248
+msgid "Select base font size (px)"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:256
+msgid "Heading Font Family"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:264
+msgid "Heading Font Style"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:265
+msgid "Ex: italic"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:272
+msgid "Upload Custom Font 1"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:273
+msgid ""
+"Upload your own font and enter name \"custom-font-1\" in \"Main Font Family"
+"\" or \"Heading Font Family\" setting above"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:280
+msgid "Upload Custom Font 2"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:281
+msgid ""
+"Upload your own font and enter name \"custom-font-2\" in \"Main Font Family"
+"\" or \"Heading Font Family\" setting above"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:290
+msgid "Main Navigation Style"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:291
+msgid "Choose Main Navigation Style"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:303
+msgid "Off Canvas"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:309
+msgid "Main Navigation Layout"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:310
+msgid "Choose Main Navigation Layout"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:318
+msgid "Full"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:322
+msgid "Boxed"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:328
+msgid "Main Navigation Schema"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:329
+msgid "Choose Main Navigation color schema"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:341
+#: conferpress-shortcodes/shortcodes/button.php:110
+msgid "Light"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:348
+msgid "Enable Top Navigation?"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:349
+msgid "Choose Off to hide TOP Navigation"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:356
+msgid "Top Navigation Background Color"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:357
+msgid "Choose TOP Navigation background color"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:365
+msgid "Top Navigation Background Opacity"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:366
+msgid "Choose TOP Navigation background opacity (%)"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:375
+msgid "Main Navigation Background Color"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:376
+msgid "Choose Main Navigation background color"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:383
+msgid "Main Navigation Background Opacity"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:384
+msgid "Choose Main Navigation background opacity (%)"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:393
+msgid "Sticky Navigation"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:394
+msgid "Choose to Enable Sticky Navigation"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:401
+msgid "Sticky Logo"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:402
+msgid "Upload logo image if you want sticky menu has different logo"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:410
+msgid "Enable Search"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:411
+msgid "Enable or disable default search button on Top Navigation"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:419
+msgid "Top Navigation Content"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:422
+msgid "Ex: <span><i class=\"fa fa-phone\"></i> 0123-456-789</span>"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:428
+msgid "Top Navigation Tabs"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:433
+msgid "Add Top Navigation Tabs"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:436
+msgid "Icon Font Class"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:439
+#: conferpress/inc/option-tree-hook.php:971
+msgid "Enter Font Awesome class (Ex: fa-facebook)"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:443
+#: conferpress-shortcodes/shortcodes/banner.php:69
+#: conferpress-shortcodes/shortcodes/button.php:56
+#: conferpress-shortcodes/shortcodes/countdown_clock.php:78
+#: conferpress-shortcodes/shortcodes/icon_box.php:73
+#: conferpress-shortcodes/shortcodes/post-carousel.php:148
+#: conferpress-shortcodes/shortcodes/post-grid.php:88
+#: conferpress-shortcodes/shortcodes/post-list.php:152
+#: conferpress-shortcodes/shortcodes/post-slider.php:179
+#: conferpress-shortcodes/shortcodes/post-timeline.php:134
+#: conferpress-shortcodes/shortcodes/product-woo.php:136
+#: conferpress-shortcodes/shortcodes/timeline.php:111
+msgid "Content"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:446
+msgid "Enter Tab Content"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:450
+#: conferpress/inc/option-tree-hook.php:974
+#: conferpress-shortcodes/shortcodes/banner.php:102
+msgid "URL"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:453
+msgid "Enter URL for this item (will redirect instead of expand tab content)"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:457
+msgid "Full width content"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:459
+msgid "Full width or in Container (default)?"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:464
+msgid "Show Tab Title"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:466
+msgid "Choose to show Title next to icon"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:478
+#: conferpress/inc/option-tree-hook.php:574
+#: conferpress/inc/option-tree-hook.php:600
+msgid "Sidebar Layout"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:479
+#: conferpress/inc/option-tree-hook.php:575
+msgid "Select Sidebar Layout (Right, Left or Fullwidth)"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:491
+#: conferpress/inc/option-tree-hook.php:582
+#: conferpress/inc/option-tree-hook.php:608
+#: conferpress/inc/option-tree-hook.php:699
+#: conferpress/inc/option-tree-hook.php:726
+#: conferpress/inc/option-tree-hook.php:791
+#: conferpress/inc/option-tree-hook.php:819
+#: conferpress/inc/option-tree-hook.php:844
+#: conferpress/inc/meta/page-metadata.php:28
+msgid "Sidebar Right"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:496
+#: conferpress/inc/option-tree-hook.php:587
+#: conferpress/inc/option-tree-hook.php:613
+#: conferpress/inc/option-tree-hook.php:704
+#: conferpress/inc/option-tree-hook.php:731
+#: conferpress/inc/option-tree-hook.php:796
+#: conferpress/inc/option-tree-hook.php:824
+#: conferpress/inc/option-tree-hook.php:849
+#: conferpress/inc/meta/page-metadata.php:33
+msgid "Sidebar Left"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:501
+#: conferpress/inc/option-tree-hook.php:592
+#: conferpress/inc/option-tree-hook.php:618
+#: conferpress/inc/option-tree-hook.php:709
+#: conferpress/inc/option-tree-hook.php:736
+#: conferpress/inc/option-tree-hook.php:801
+#: conferpress/inc/option-tree-hook.php:829
+#: conferpress/inc/option-tree-hook.php:854
+#: conferpress/inc/meta/page-metadata.php:38
+msgid "Hidden"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:509
+msgid "Enable Author info"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:521
+msgid "Published Date"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:522
+msgid "Enable Published Date info"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:534
+#: conferpress/templates/single/content-single.php:45
+msgid "Categories"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:535
+#: conferpress/inc/option-tree-hook.php:548
+msgid "Enable Categories info"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:547
+#: conferpress/templates/single/content-single.php:54
+#: conferpress-shortcodes/shortcodes/blog.php:177
+#: conferpress-shortcodes/shortcodes/post-carousel.php:219
+#: conferpress-shortcodes/shortcodes/post-grid.php:145
+#: conferpress-shortcodes/shortcodes/post-list.php:199
+#: conferpress-shortcodes/shortcodes/post-slider.php:252
+#: conferpress-shortcodes/shortcodes/post-timeline.php:159
+#: conferpress-shortcodes/shortcodes/product-woo.php:154
+msgid "Tags"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:556
+msgid "Comment Count"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:557
+msgid "Enable Comment Count Info"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:565
+msgid "Post Navigation"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:566
+msgid "Enable Post Navigation"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:601
+msgid "Select Sidebar position for Archive pages"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:625
+msgid "Archive Post Listing Style"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:626
+msgid ""
+"Select Post Listing Style for Archive pages (Quick Ajax need to be installed)"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:633
+msgid "Classic"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:637
+msgid "Wide"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:641
+msgid "Quick Ajax"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:647
+msgid "Show datetime on Post Thumbnail"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:655
+msgid "Custom default excerpt length"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:656
+msgid "Default is 22 words"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:664
+msgid "Page Title"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:672
+msgid "Page Content"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:681
+msgid "Search Form"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:682
+msgid "Enable Search Form in 404 page"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:691
+msgid "Shop & Product Layout"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:692
+msgid "Select default layout of shop & product pages"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:718
+msgid "Event Sidebar Layout"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:719
+msgid "Select default layout of event pages"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:743
+msgid "Show Heading Info"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:744
+#: conferpress/inc/option-tree-hook.php:752
+#: conferpress/inc/option-tree-hook.php:760
+#: conferpress/inc/option-tree-hook.php:768
+#: conferpress/inc/option-tree-hook.php:776
+msgid "in Single Event"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:751
+msgid "Show Heading Categories"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:759
+msgid "Show Second Title, Info & All Event link in Single content"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:767
+msgid "Show Event Thumbnail in Single content"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:775
+msgid "Show Next/Prev Event"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:783
+msgid "Event Listing Sidebar Layout"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:784
+msgid "Select layout of event archiver pages"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:811
+msgid "Member Sidebar Layout"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:812
+msgid "Select default layout of member pages"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:836
+msgid "Member List Sidebar Layout"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:837
+msgid "Select default layout of member list pages"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:861
+msgid "Show Member's Upcomming Events"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:862
+#: conferpress/inc/option-tree-hook.php:870
+msgid "in Single Member"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:869
+msgid "Show Other Members"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:877
+msgid "Member Post Label"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:878
+msgid "Ex: Trainers, Teachers..."
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:885
+msgid "Member Post Slug"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:886
+msgid "Need to re-save permalink options"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:896 conferpress-member/member.php:144
+msgid "Facebook"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:897
+#: conferpress/inc/option-tree-hook.php:905
+#: conferpress/inc/option-tree-hook.php:913
+#: conferpress/inc/option-tree-hook.php:921
+#: conferpress/inc/option-tree-hook.php:929
+#: conferpress/inc/option-tree-hook.php:937
+#: conferpress/inc/option-tree-hook.php:945
+#: conferpress/inc/option-tree-hook.php:953
+#: conferpress/inc/option-tree-hook.php:977
+msgid "Enter full link to your account (including http://)"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:904 conferpress-member/member.php:153
+msgid "Twitter"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:912 conferpress-member/member.php:189
+msgid "LinkedIn"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:920
+msgid "Tumblr"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:928
+msgid "Google Plus"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:936 conferpress-member/member.php:198
+msgid "Pinterest"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:944
+msgid "Youtube"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:952 conferpress-member/member.php:162
+msgid "Flickr"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:959
+msgid "Custom Social Account"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:964
+msgid "Add Social Account"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:968
+msgid "Icon Font Awesome"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:983
+msgid "Open Social link in new tab?"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:991
+msgid "Facebook Share"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:992
+msgid "Enable Facebook Share button"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:999
+msgid "Twitter Share"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:1000
+msgid "Enable Twitter Tweet button"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:1007
+msgid "LinkedIn Share"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:1008
+msgid "Enable LinkedIn Share button"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:1015
+msgid "Tumblr Share"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:1016
+msgid "Enable Tumblr Share button"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:1023
+msgid "Google+ Share"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:1024
+msgid "Enable Google+ Share button"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:1031
+msgid "Pinterest Share"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:1032
+msgid "Enable Pinterest Pin button"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:1039
+msgid "Email Share"
+msgstr ""
+
+#: conferpress/inc/option-tree-hook.php:1040
+msgid "Enable Email button"
+msgstr ""
+
+#: conferpress/inc/meta/page-metadata.php:16
+#: conferpress/inc/meta/post-metadata.php:52
+#: conferpress/inc/meta/post-metadata.php:101
+#: conferpress/inc/meta/post-metadata.php:154
+msgid "Sidebar"
+msgstr ""
+
+#: conferpress/inc/meta/page-metadata.php:17
+msgid "Select \"Default\" to use Theme Options"
+msgstr ""
+
+#: conferpress/inc/meta/page-metadata.php:45
+msgid "Custom Header Content"
+msgstr ""
+
+#: conferpress/inc/meta/page-metadata.php:46
+msgid "Enter header content or shortcodes"
+msgstr ""
+
+#: conferpress/inc/meta/page-metadata.php:52
+#: conferpress/inc/meta/post-metadata.php:82
+#: conferpress/inc/meta/post-metadata.php:184
+msgid "Heading Background"
+msgstr ""
+
+#: conferpress/inc/meta/page-metadata.php:53
+#: conferpress/inc/meta/post-metadata.php:83
+#: conferpress/inc/meta/post-metadata.php:185
+msgid "Upload Custom Heading Background Image"
+msgstr ""
+
+#: conferpress/inc/meta/post-metadata.php:19
+msgid "Event Settings"
+msgstr ""
+
+#: conferpress/inc/meta/post-metadata.php:25
+msgid "Product for Ticket"
+msgstr ""
+
+#: conferpress/inc/meta/post-metadata.php:26
+msgid "Select a product for selling ticket"
+msgstr ""
+
+#: conferpress/inc/meta/post-metadata.php:32
+msgid "Trainers"
+msgstr ""
+
+#: conferpress/inc/meta/post-metadata.php:33
+msgid "Select Event Trainers/Host"
+msgstr ""
+
+#: conferpress/inc/meta/post-metadata.php:39
+msgid "White label Layout"
+msgstr ""
+
+#: conferpress/inc/meta/post-metadata.php:40
+msgid ""
+"Enable ONLY if you want to build standalone Event page (Hide all Menus, "
+"Sidebars, Footer)"
+msgstr ""
+
+#: conferpress/inc/meta/post-metadata.php:46
+msgid "Layout Settings"
+msgstr ""
+
+#: conferpress/inc/meta/post-metadata.php:53
+#: conferpress/inc/meta/post-metadata.php:102
+#: conferpress/inc/meta/post-metadata.php:155
+msgid "Select \"Default\" to use settings in Theme Options"
+msgstr ""
+
+#: conferpress/inc/starter/functions-admin.php:17
+#, php-format
+msgid ""
+"Error retrieving a thumbnail from the URL <a href=\"%1$s\">%1$s</a> using "
+"<code>wp_remote_get()</code><br />If opening that URL in your web browser "
+"returns anything else than an error page, the problem may be related to your "
+"web server and might be something your host administrator can solve."
+msgstr ""
+
+#: conferpress/inc/starter/functions-admin.php:17
+msgid "Error Details:"
+msgstr ""
+
+#: conferpress/inc/starter/functions-admin.php:41
+msgid "Unsupported MIME type:"
+msgstr ""
+
+#: conferpress/inc/starter/functions-admin.php:57
+msgid "Error uploading image data:"
+msgstr ""
+
+#: conferpress/inc/starter/functions-admin.php:110
+#: conferpress/inc/starter/functions-admin.php:116
+#: conferpress-member/member-shortcode.php:104
+#: conferpress-shortcodes/shortcodes/blog.php:216
+#: conferpress-shortcodes/shortcodes/post-carousel.php:265
+#: conferpress-shortcodes/shortcodes/post-grid.php:184
+#: conferpress-shortcodes/shortcodes/post-list.php:238
+#: conferpress-shortcodes/shortcodes/post-slider.php:291
+#: conferpress-shortcodes/shortcodes/post-timeline.php:198
+#: conferpress-shortcodes/shortcodes/product-woo.php:193
+msgid "ID"
+msgstr ""
+
+#: conferpress/inc/starter/functions-admin.php:111
+msgid "Thumbnail"
+msgstr ""
+
+#: conferpress/inc/starter/leaf-core.php:85
+msgid "Install Required &amp; Recommended Plugins"
+msgstr ""
+
+#: conferpress/inc/starter/leaf-core.php:86
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: conferpress/inc/starter/leaf-core.php:87
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: conferpress/inc/starter/leaf-core.php:88
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:339
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: conferpress/inc/starter/leaf-core.php:99
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:391
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: conferpress/inc/starter/leaf-core.php:100
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:393
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:3253
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: conferpress/inc/starter/leaf-core.php:101
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: conferpress/inc/starter/leaf-core.php:129
+#: conferpress/inc/starter/leaf-core.php:132
+#: conferpress/tribe-events/single-event.php:32
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: conferpress/inc/starter/twenty-core.php:49
+msgid "&larr; Older posts"
+msgstr ""
+
+#: conferpress/inc/starter/twenty-core.php:50
+msgid "Newer posts &rarr;"
+msgstr ""
+
+#: conferpress/inc/starter/twenty-core.php:75
+msgid "Pingback:"
+msgstr ""
+
+#: conferpress/inc/starter/twenty-core.php:75
+msgid "(Edit)"
+msgstr ""
+
+#: conferpress/inc/starter/twenty-core.php:99
+msgid "Reply"
+msgstr ""
+
+#: conferpress/inc/starter/twenty-core.php:106
+#, php-format
+msgid "%1$s  at %2$s "
+msgstr ""
+
+#: conferpress/inc/starter/twenty-core.php:109
+msgid "Edit"
+msgstr ""
+
+#: conferpress/inc/starter/twenty-core.php:113
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: conferpress/inc/starter/twenty-core.php:135
+msgid "Your Name *"
+msgstr ""
+
+#: conferpress/inc/starter/twenty-core.php:136
+msgid "Your Email *"
+msgstr ""
+
+#: conferpress/inc/starter/twenty-core.php:137
+msgid "Your Website"
+msgstr ""
+
+#: conferpress/inc/starter/twenty-core.php:165
+#: conferpress-shortcodes/shortcodes/blog.php:219
+#: conferpress-shortcodes/shortcodes/post-carousel.php:268
+#: conferpress-shortcodes/shortcodes/post-grid.php:187
+#: conferpress-shortcodes/shortcodes/post-list.php:241
+#: conferpress-shortcodes/shortcodes/post-slider.php:294
+#: conferpress-shortcodes/shortcodes/post-timeline.php:201
+#: conferpress-shortcodes/shortcodes/product-woo.php:196
+#: conferpress-shortcodes/shortcodes/testimonial.php:98
+msgid "Name"
+msgstr ""
+
+#: conferpress/inc/starter/twenty-core.php:167
+#: conferpress-member/member.php:227
+msgid "Email"
+msgstr ""
+
+#: conferpress/inc/starter/twenty-core.php:169
+msgid "Website"
+msgstr ""
+
+#: conferpress/inc/starter/twenty-core.php:173
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: conferpress/inc/starter/twenty-core.php:185
+#: conferpress/templates/single/content-single.php:64
+msgid "Comment"
+msgstr ""
+
+#: conferpress/inc/starter/twenty-core.php:186
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: conferpress/inc/starter/twenty-core.php:187
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: conferpress/inc/starter/twenty-core.php:188
+msgid "Your email address will not be published."
+msgstr ""
+
+#: conferpress/inc/starter/twenty-core.php:192
+msgid "Leave a Reply"
+msgstr ""
+
+#: conferpress/inc/starter/twenty-core.php:193
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: conferpress/inc/starter/twenty-core.php:194
+msgid "Cancel reply"
+msgstr ""
+
+#: conferpress/inc/starter/twenty-core.php:195
+msgid "Submit &rsaquo;"
+msgstr ""
+
+#: conferpress/inc/starter/twenty-core.php:371
+#: conferpress/inc/starter/twenty-core.php:374
+msgid ", "
+msgstr ""
+
+#: conferpress/inc/starter/twenty-core.php:385
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: conferpress/inc/starter/twenty-core.php:391
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author"
+"\"> by %4$s</span>."
+msgstr ""
+
+#: conferpress/inc/starter/twenty-core.php:393
+#, php-format
+msgid ""
+"This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</"
+"span>."
+msgstr ""
+
+#: conferpress/inc/starter/twenty-core.php:395
+#, php-format
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr ""
+
+#: conferpress/inc/starter/widget_param.php:63
+msgid "Custom Variation"
+msgstr ""
+
+#: conferpress/inc/starter/widget_param.php:131
+msgid "Widget Style"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:338
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:392
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:920
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:2627
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:3674
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:394
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:396
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:398
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:400
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:401
+msgid "Dismiss this notice"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:402
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:403
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:606
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:607
+msgid "Update Required"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:724
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:1027
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:2076
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:2367
+msgid "Required"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:2370
+msgid "Recommended"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:2386
+msgid "WordPress Repository"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:2389
+msgid "External Source"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:2392
+msgid "Pre-Packaged"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:2409
+msgid "Not Installed"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:2413
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:2415
+msgid "Active"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:2421
+msgid "Required Update not Available"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:2424
+msgid "Requires Update"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:2427
+msgid "Update recommended"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:2584
+msgid "Installed version:"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:2592
+msgid "Minimum required version:"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:2604
+msgid "Available version:"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:2627
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:2641
+msgid "Plugin"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:2642
+msgid "Source"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:2643
+msgid "Type"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:2647
+msgid "Version"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:2648
+msgid "Status"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:2697
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:2702
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:2708
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:2778
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:2811
+msgid "Install"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:2817
+msgid "Update"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:2820
+msgid "Activate"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:2851
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:2853
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:2894
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:2896
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:3002
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:3028
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:3252
+msgid "Plugin activation failed."
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:3592
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:3595
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:3601
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:3603
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:3603
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:3611
+msgid "Show Details"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:3603
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:3611
+msgid "Hide Details"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:3604
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:3606
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:3609
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:3611
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:3612
+msgid "All installations have been completed."
+msgstr ""
+
+#: conferpress/inc/tgm/class-tgm-plugin-activation.php:3614
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: conferpress/inc/widgets/latest-post-type.php:6
+#: conferpress/inc/widgets/latest-post-type.php:8
+msgid "Leafcolor Latest Posts "
+msgstr ""
+
+#: conferpress/inc/widgets/latest-post-type.php:245
+msgid "Title:"
+msgstr ""
+
+#: conferpress/inc/widgets/latest-post-type.php:248
+msgid "Number of posts:"
+msgstr ""
+
+#: conferpress/inc/widgets/latest-post-type.php:253
+msgid "Post type"
+msgstr ""
+
+#: conferpress/inc/widgets/latest-post-type.php:255
+#: conferpress-shortcodes/shortcodes/blog.php:137
+#: conferpress-shortcodes/shortcodes/post-carousel.php:203
+#: conferpress-shortcodes/shortcodes/post-grid.php:128
+#: conferpress-shortcodes/shortcodes/post-list.php:182
+#: conferpress-shortcodes/shortcodes/post-slider.php:236
+#: conferpress-shortcodes/shortcodes/post-timeline.php:143
+msgid "Post"
+msgstr ""
+
+#: conferpress/inc/widgets/latest-post-type.php:257
+#: conferpress-shortcodes/shortcodes/blog.php:139
+#: conferpress-shortcodes/shortcodes/post-carousel.php:205
+#: conferpress-shortcodes/shortcodes/post-grid.php:130
+#: conferpress-shortcodes/shortcodes/post-list.php:184
+#: conferpress-shortcodes/shortcodes/post-slider.php:238
+#: conferpress-shortcodes/shortcodes/post-timeline.php:145
+msgid "Product"
+msgstr ""
+
+#: conferpress/inc/widgets/latest-post-type.php:261
+msgid "Tags:"
+msgstr ""
+
+#: conferpress/inc/widgets/latest-post-type.php:266
+msgid "Categories:"
+msgstr ""
+
+#: conferpress/inc/widgets/latest-post-type.php:270
+msgid "IDs to show:"
+msgstr ""
+
+#: conferpress/templates/blog/loop-item-wide.php:21
+#: conferpress/templates/blog/loop-item.php:21
+msgid "DETAIL"
+msgstr ""
+
+#: conferpress/templates/blog/loop-none.php:4
+msgid "Search"
+msgstr ""
+
+#: conferpress/templates/blog/loop-none.php:11
+msgid "No results found"
+msgstr ""
+
+#: conferpress/templates/blog/loop-none.php:12
+msgid "Click here to try another search"
+msgstr ""
+
+#: conferpress/templates/header/header-heading.php:4
+msgid "My Events"
+msgstr ""
+
+#: conferpress/templates/header/header-heading.php:7
+#: conferpress/templates/header/header-heading.php:10
+msgid "Submit Event"
+msgstr ""
+
+#: conferpress/templates/header/header-heading.php:9
+msgid "WP Router Placeholder Page"
+msgstr ""
+
+#: conferpress/templates/header/header-heading.php:44
+#: conferpress-shortcodes/shortcodes/post-slider.php:114
+msgid "Time"
+msgstr ""
+
+#: conferpress/templates/header/header-heading.php:52
+#: conferpress-shortcodes/shortcodes/post-slider.php:122
+msgid "Venue"
+msgstr ""
+
+#: conferpress/templates/header/header-heading.php:69
+#: conferpress-shortcodes/shortcodes/post-slider.php:140
+msgid "Ticket"
+msgstr ""
+
+#: conferpress/templates/header/header-heading.php:74
+#: conferpress-shortcodes/shortcodes/post-slider.php:144
+msgid "Get it now"
+msgstr ""
+
+#: conferpress/templates/header/header-navigation-top.php:35
+msgid "View Cart"
+msgstr ""
+
+#: conferpress/templates/header/header-navigation-top.php:36
+msgid "Check Out"
+msgstr ""
+
+#: conferpress/templates/header/header-navigation.php:46
+msgid "Menu"
+msgstr ""
+
+#: conferpress/templates/single/content-single.php:36
+msgid "Published"
+msgstr ""
+
+#: conferpress/templates/single/content-single.php:65
+msgid "0 Comments"
+msgstr ""
+
+#: conferpress/templates/single/content-single.php:65
+msgid "1 Comment"
+msgstr ""
+
+#: conferpress/tribe-events/single-event.php:50
+#, php-format
+msgid "%s Navigation"
+msgstr ""
+
+#: conferpress/tribe-events/single-event.php:96
+msgid "Price: "
+msgstr ""
+
+#: conferpress/tribe-events/day/single-event.php:66
+#: conferpress/tribe-events/day/single-featured.php:70
+#: conferpress/tribe-events/list/single-event.php:70
+#: conferpress/tribe-events/list/single-featured.php:70
+#: conferpress/tribe-events/pro/map/single-event.php:66
+#: conferpress/tribe-events/pro/map/single-featured.php:70
+#: conferpress-shortcodes/shortcodes/post-carousel.php:105
+#: conferpress-shortcodes/shortcodes/post-list.php:95
+msgid "By "
+msgstr ""
+
+#: conferpress/tribe-events/day/single-event.php:67
+#: conferpress/tribe-events/day/single-featured.php:71
+#: conferpress/tribe-events/list/single-event.php:71
+#: conferpress/tribe-events/list/single-featured.php:71
+#: conferpress/tribe-events/pro/map/single-event.php:67
+#: conferpress/tribe-events/pro/map/single-featured.php:71
+#: conferpress-shortcodes/shortcodes/post-carousel.php:106
+#: conferpress-shortcodes/shortcodes/post-list.php:96
+msgid "At "
+msgstr ""
+
+#: conferpress/tribe-events/day/single-event.php:76
+#: conferpress/tribe-events/day/single-featured.php:80
+#: conferpress/tribe-events/list/single-event.php:80
+#: conferpress/tribe-events/list/single-featured.php:80
+#: conferpress/tribe-events/pro/map/single-event.php:76
+#: conferpress/tribe-events/pro/map/single-featured.php:80
+#: conferpress-member/views/single-member.php:96
+#: conferpress-shortcodes/shortcodes/post-carousel.php:112
+#: conferpress-shortcodes/shortcodes/post-list.php:115
+msgid "Join Now"
+msgstr ""
+
+#: conferpress/tribe-events/day/single-event.php:80
+#: conferpress/tribe-events/day/single-featured.php:84
+#: conferpress/tribe-events/list/single-event.php:84
+#: conferpress/tribe-events/list/single-featured.php:84
+#: conferpress/tribe-events/pro/map/single-event.php:80
+#: conferpress/tribe-events/pro/map/single-featured.php:84
+#: conferpress-shortcodes/shortcodes/post-carousel.php:116
+#: conferpress-shortcodes/shortcodes/post-list.php:119
+msgid "Read More"
+msgstr ""
+
+#: conferpress-member/member-shortcode.php:107
+msgid "ID of member post"
+msgstr ""
+
+#: conferpress-member/member-shortcode.php:111
+msgid "Always show social icons"
+msgstr ""
+
+#: conferpress-member/member-shortcode.php:114
+#: conferpress-shortcodes/shortcodes/blog.php:164
+#: conferpress-shortcodes/shortcodes/button.php:79
+#: conferpress-shortcodes/shortcodes/countdown_clock.php:133
+#: conferpress-shortcodes/shortcodes/icon_box.php:103
+#: conferpress-shortcodes/shortcodes/post-carousel.php:186
+#: conferpress-shortcodes/shortcodes/post-grid.php:107
+#: conferpress-shortcodes/shortcodes/post-grid.php:116
+#: conferpress-shortcodes/shortcodes/post-list.php:171
+#: conferpress-shortcodes/shortcodes/post-slider.php:208
+#: conferpress-shortcodes/shortcodes/post-slider.php:218
+#: conferpress-shortcodes/shortcodes/testimonial.php:80
+msgid "No"
+msgstr ""
+
+#: conferpress-member/member-shortcode.php:115
+#: conferpress-shortcodes/shortcodes/blog.php:163
+#: conferpress-shortcodes/shortcodes/button.php:80
+#: conferpress-shortcodes/shortcodes/countdown_clock.php:132
+#: conferpress-shortcodes/shortcodes/icon_box.php:104
+#: conferpress-shortcodes/shortcodes/post-carousel.php:185
+#: conferpress-shortcodes/shortcodes/post-grid.php:106
+#: conferpress-shortcodes/shortcodes/post-grid.php:117
+#: conferpress-shortcodes/shortcodes/post-list.php:170
+#: conferpress-shortcodes/shortcodes/post-slider.php:207
+#: conferpress-shortcodes/shortcodes/post-slider.php:219
+#: conferpress-shortcodes/shortcodes/testimonial.php:79
+msgid "Yes"
+msgstr ""
+
+#: conferpress-member/member.php:54
+msgid "Add Member"
+msgstr ""
+
+#: conferpress-member/member.php:55
+msgid "Add New Member"
+msgstr ""
+
+#: conferpress-member/member.php:56
+msgid "Edit Member"
+msgstr ""
+
+#: conferpress-member/member.php:57
+msgid "New Member"
+msgstr ""
+
+#: conferpress-member/member.php:58
+msgid "All Member"
+msgstr ""
+
+#: conferpress-member/member.php:59
+msgid "View Member"
+msgstr ""
+
+#: conferpress-member/member.php:60
+msgid "Search Member"
+msgstr ""
+
+#: conferpress-member/member.php:61
+msgid "No Member found"
+msgstr ""
+
+#: conferpress-member/member.php:62
+msgid "No Member found in Trash"
+msgstr ""
+
+#: conferpress-member/member.php:116
+msgid "Member info"
+msgstr ""
+
+#: conferpress-member/member.php:124
+msgid "Position"
+msgstr ""
+
+#: conferpress-member/member.php:136
+msgid "Member Social"
+msgstr ""
+
+#: conferpress-member/member.php:171
+msgid "Google+"
+msgstr ""
+
+#: conferpress-member/member.php:180
+msgid "Instagram"
+msgstr ""
+
+#: conferpress-member/member.php:207
+msgid "StumbleUpon"
+msgstr ""
+
+#: conferpress-member/member.php:217
+msgid "Dribble"
+msgstr ""
+
+#: conferpress-member/member.php:236
+msgid "Vimeo"
+msgstr ""
+
+#: conferpress-member/member.php:245
+msgid "YouTube"
+msgstr ""
+
+#: conferpress-member/member.php:254
+msgid "Vk"
+msgstr ""
+
+#: conferpress-member/member.php:263
+msgid "RSS"
+msgstr ""
+
+#: conferpress-member/views/single-member.php:3
+msgid "Events"
+msgstr ""
+
+#: conferpress-member/views/single-member.php:40
+#: conferpress-shortcodes/shortcodes/blog.php:246
+#: conferpress-shortcodes/shortcodes/post-carousel.php:295
+#: conferpress-shortcodes/shortcodes/post-grid.php:214
+#: conferpress-shortcodes/shortcodes/post-list.php:268
+#: conferpress-shortcodes/shortcodes/post-slider.php:321
+#: conferpress-shortcodes/shortcodes/post-timeline.php:228
+msgid "Upcoming"
+msgstr ""
+
+#: conferpress-member/views/single-member.php:114
+msgid "Other "
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes.php:155
+msgid "Animation Delay"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes.php:157
+msgid "Enter Animation Delay in second (ex: 1.5)"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes.php:391
+msgid "Share on Facebook"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes.php:394
+msgid "Share on Twitter"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes.php:397
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes.php:400
+msgid "Share on Tumblr"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes.php:403
+msgid "Share on Google Plus"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes.php:406
+msgid "Pin this"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes.php:409
+msgid "Email this"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/banner.php:66
+msgid "Banner"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/banner.php:74
+#: conferpress-shortcodes/shortcodes/blog.php:218
+#: conferpress-shortcodes/shortcodes/post-carousel.php:152
+#: conferpress-shortcodes/shortcodes/post-carousel.php:267
+#: conferpress-shortcodes/shortcodes/post-grid.php:186
+#: conferpress-shortcodes/shortcodes/post-list.php:240
+#: conferpress-shortcodes/shortcodes/post-slider.php:293
+#: conferpress-shortcodes/shortcodes/post-timeline.php:200
+#: conferpress-shortcodes/shortcodes/product-woo.php:195
+#: conferpress-shortcodes/shortcodes/testimonial.php:105
+#: conferpress-shortcodes/shortcodes/timeline.php:90
+msgid "Title"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/banner.php:77
+msgid "Title Banner"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/banner.php:81
+msgid "Small Title"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/banner.php:88
+#: conferpress-shortcodes/shortcodes/button.php:86
+#: conferpress-shortcodes/shortcodes/icon_box.php:77
+#: conferpress-shortcodes/shortcodes/post-carousel.php:159
+msgid "Icon"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/banner.php:91
+#: conferpress-shortcodes/shortcodes/button.php:89
+msgid "Font Awesome Icon (ex: fa-apple)"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/banner.php:95
+msgid "Background Image"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/banner.php:111
+msgid "Title Size"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/banner.php:114
+#: conferpress-shortcodes/shortcodes/button.php:99
+#: conferpress-shortcodes/shortcodes/heading.php:62
+msgid "Big"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/banner.php:115
+#: conferpress-shortcodes/shortcodes/button.php:98
+#: conferpress-shortcodes/shortcodes/heading.php:63
+msgid "Small"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:134
+#: conferpress-shortcodes/shortcodes/post-carousel.php:200
+#: conferpress-shortcodes/shortcodes/post-grid.php:125
+#: conferpress-shortcodes/shortcodes/post-list.php:179
+#: conferpress-shortcodes/shortcodes/post-slider.php:233
+#: conferpress-shortcodes/shortcodes/post-timeline.php:140
+msgid "Post Type"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:138
+#: conferpress-shortcodes/shortcodes/post-carousel.php:204
+#: conferpress-shortcodes/shortcodes/post-grid.php:129
+#: conferpress-shortcodes/shortcodes/post-list.php:183
+#: conferpress-shortcodes/shortcodes/post-slider.php:237
+#: conferpress-shortcodes/shortcodes/post-timeline.php:144
+msgid "Tribe Events"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:140
+#: conferpress-shortcodes/shortcodes/post-carousel.php:206
+#: conferpress-shortcodes/shortcodes/post-grid.php:131
+#: conferpress-shortcodes/shortcodes/post-list.php:185
+#: conferpress-shortcodes/shortcodes/post-slider.php:239
+#: conferpress-shortcodes/shortcodes/post-timeline.php:146
+msgid "Attachment"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:142
+#: conferpress-shortcodes/shortcodes/countdown_clock.php:135
+#: conferpress-shortcodes/shortcodes/post-carousel.php:208
+#: conferpress-shortcodes/shortcodes/post-grid.php:134
+#: conferpress-shortcodes/shortcodes/post-list.php:188
+#: conferpress-shortcodes/shortcodes/post-slider.php:241
+#: conferpress-shortcodes/shortcodes/post-timeline.php:148
+msgid "Choose post type"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:148
+msgid "Column"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:151
+#: conferpress-shortcodes/shortcodes/post-grid.php:96
+#: conferpress-shortcodes/shortcodes/post-list.php:159
+msgid "2 Column"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:152
+#: conferpress-shortcodes/shortcodes/post-list.php:160
+msgid "1 Column"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:160
+msgid "Enable big item"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:170
+#: conferpress-shortcodes/shortcodes/post-carousel.php:212
+#: conferpress-shortcodes/shortcodes/post-grid.php:138
+#: conferpress-shortcodes/shortcodes/post-list.php:192
+#: conferpress-shortcodes/shortcodes/post-slider.php:245
+#: conferpress-shortcodes/shortcodes/post-timeline.php:152
+#: conferpress-shortcodes/shortcodes/product-woo.php:147
+msgid "Category"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:173
+#: conferpress-shortcodes/shortcodes/post-carousel.php:215
+#: conferpress-shortcodes/shortcodes/post-grid.php:141
+#: conferpress-shortcodes/shortcodes/post-list.php:195
+#: conferpress-shortcodes/shortcodes/post-slider.php:248
+#: conferpress-shortcodes/shortcodes/post-timeline.php:155
+#: conferpress-shortcodes/shortcodes/product-woo.php:150
+msgid "List of cat ID (or slug), separated by a comma"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:180
+#: conferpress-shortcodes/shortcodes/post-carousel.php:222
+#: conferpress-shortcodes/shortcodes/post-grid.php:148
+#: conferpress-shortcodes/shortcodes/post-list.php:202
+#: conferpress-shortcodes/shortcodes/post-slider.php:255
+#: conferpress-shortcodes/shortcodes/post-timeline.php:162
+#: conferpress-shortcodes/shortcodes/product-woo.php:157
+msgid "list of tags, separated by a comma"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:184
+#: conferpress-shortcodes/shortcodes/post-carousel.php:226
+#: conferpress-shortcodes/shortcodes/post-grid.php:152
+#: conferpress-shortcodes/shortcodes/post-list.php:206
+#: conferpress-shortcodes/shortcodes/post-slider.php:259
+#: conferpress-shortcodes/shortcodes/post-timeline.php:166
+#: conferpress-shortcodes/shortcodes/product-woo.php:161
+msgid "IDs"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:187
+#: conferpress-shortcodes/shortcodes/post-carousel.php:229
+#: conferpress-shortcodes/shortcodes/post-grid.php:155
+#: conferpress-shortcodes/shortcodes/post-list.php:209
+#: conferpress-shortcodes/shortcodes/post-slider.php:262
+#: conferpress-shortcodes/shortcodes/post-timeline.php:169
+#: conferpress-shortcodes/shortcodes/product-woo.php:164
+msgid "Specify post IDs to retrieve"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:191
+#: conferpress-shortcodes/shortcodes/post-carousel.php:233
+#: conferpress-shortcodes/shortcodes/post-grid.php:159
+#: conferpress-shortcodes/shortcodes/post-list.php:213
+#: conferpress-shortcodes/shortcodes/post-slider.php:266
+#: conferpress-shortcodes/shortcodes/post-timeline.php:173
+#: conferpress-shortcodes/shortcodes/product-woo.php:168
+msgid "Count"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:194
+msgid "Number of posts to show. Default is 4"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:200
+#: conferpress-shortcodes/shortcodes/post-carousel.php:249
+#: conferpress-shortcodes/shortcodes/post-grid.php:168
+#: conferpress-shortcodes/shortcodes/post-list.php:222
+#: conferpress-shortcodes/shortcodes/post-slider.php:275
+#: conferpress-shortcodes/shortcodes/post-timeline.php:182
+#: conferpress-shortcodes/shortcodes/product-woo.php:177
+msgid "Order"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:203
+#: conferpress-shortcodes/shortcodes/post-carousel.php:252
+#: conferpress-shortcodes/shortcodes/post-grid.php:171
+#: conferpress-shortcodes/shortcodes/post-list.php:225
+#: conferpress-shortcodes/shortcodes/post-slider.php:278
+#: conferpress-shortcodes/shortcodes/post-timeline.php:185
+#: conferpress-shortcodes/shortcodes/product-woo.php:180
+msgid "DESC"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:204
+#: conferpress-shortcodes/shortcodes/post-carousel.php:253
+#: conferpress-shortcodes/shortcodes/post-grid.php:172
+#: conferpress-shortcodes/shortcodes/post-list.php:226
+#: conferpress-shortcodes/shortcodes/post-slider.php:279
+#: conferpress-shortcodes/shortcodes/post-timeline.php:186
+#: conferpress-shortcodes/shortcodes/product-woo.php:181
+msgid "ASC"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:212
+#: conferpress-shortcodes/shortcodes/post-carousel.php:261
+#: conferpress-shortcodes/shortcodes/post-grid.php:180
+#: conferpress-shortcodes/shortcodes/post-list.php:234
+#: conferpress-shortcodes/shortcodes/post-slider.php:287
+#: conferpress-shortcodes/shortcodes/post-timeline.php:194
+#: conferpress-shortcodes/shortcodes/product-woo.php:189
+msgid "Order by"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:215
+#: conferpress-shortcodes/shortcodes/post-carousel.php:264
+#: conferpress-shortcodes/shortcodes/post-grid.php:183
+#: conferpress-shortcodes/shortcodes/post-list.php:237
+#: conferpress-shortcodes/shortcodes/post-slider.php:290
+#: conferpress-shortcodes/shortcodes/post-timeline.php:197
+#: conferpress-shortcodes/shortcodes/product-woo.php:192
+msgid "Date"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:220
+#: conferpress-shortcodes/shortcodes/post-carousel.php:269
+#: conferpress-shortcodes/shortcodes/post-grid.php:188
+#: conferpress-shortcodes/shortcodes/post-list.php:242
+#: conferpress-shortcodes/shortcodes/post-slider.php:295
+#: conferpress-shortcodes/shortcodes/post-timeline.php:202
+#: conferpress-shortcodes/shortcodes/product-woo.php:197
+msgid "Modified"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:221
+#: conferpress-shortcodes/shortcodes/post-carousel.php:270
+#: conferpress-shortcodes/shortcodes/post-grid.php:189
+#: conferpress-shortcodes/shortcodes/post-list.php:243
+#: conferpress-shortcodes/shortcodes/post-slider.php:296
+#: conferpress-shortcodes/shortcodes/post-timeline.php:203
+#: conferpress-shortcodes/shortcodes/product-woo.php:198
+msgid "Parent"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:222
+#: conferpress-shortcodes/shortcodes/post-carousel.php:271
+#: conferpress-shortcodes/shortcodes/post-grid.php:190
+#: conferpress-shortcodes/shortcodes/post-list.php:244
+#: conferpress-shortcodes/shortcodes/post-slider.php:297
+#: conferpress-shortcodes/shortcodes/post-timeline.php:204
+#: conferpress-shortcodes/shortcodes/product-woo.php:199
+msgid "Random"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:223
+#: conferpress-shortcodes/shortcodes/post-carousel.php:272
+#: conferpress-shortcodes/shortcodes/post-grid.php:191
+#: conferpress-shortcodes/shortcodes/post-list.php:245
+#: conferpress-shortcodes/shortcodes/post-slider.php:298
+#: conferpress-shortcodes/shortcodes/post-timeline.php:205
+#: conferpress-shortcodes/shortcodes/product-woo.php:200
+msgid "Comment count"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:224
+#: conferpress-shortcodes/shortcodes/post-carousel.php:273
+#: conferpress-shortcodes/shortcodes/post-grid.php:192
+#: conferpress-shortcodes/shortcodes/post-list.php:246
+#: conferpress-shortcodes/shortcodes/post-slider.php:299
+#: conferpress-shortcodes/shortcodes/post-timeline.php:206
+#: conferpress-shortcodes/shortcodes/product-woo.php:201
+msgid "Menu order"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:225
+#: conferpress-shortcodes/shortcodes/post-carousel.php:274
+#: conferpress-shortcodes/shortcodes/post-grid.php:193
+#: conferpress-shortcodes/shortcodes/post-list.php:247
+#: conferpress-shortcodes/shortcodes/post-slider.php:300
+#: conferpress-shortcodes/shortcodes/post-timeline.php:207
+#: conferpress-shortcodes/shortcodes/product-woo.php:202
+msgid "Meta value"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:226
+#: conferpress-shortcodes/shortcodes/post-carousel.php:275
+#: conferpress-shortcodes/shortcodes/post-grid.php:194
+#: conferpress-shortcodes/shortcodes/post-list.php:248
+#: conferpress-shortcodes/shortcodes/post-slider.php:301
+#: conferpress-shortcodes/shortcodes/post-timeline.php:208
+#: conferpress-shortcodes/shortcodes/product-woo.php:203
+msgid "Meta value num"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:227
+#: conferpress-shortcodes/shortcodes/post-carousel.php:276
+#: conferpress-shortcodes/shortcodes/post-grid.php:195
+#: conferpress-shortcodes/shortcodes/post-list.php:249
+#: conferpress-shortcodes/shortcodes/post-slider.php:302
+#: conferpress-shortcodes/shortcodes/post-timeline.php:209
+#: conferpress-shortcodes/shortcodes/product-woo.php:204
+msgid "Post__in"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:228
+#: conferpress-shortcodes/shortcodes/post-carousel.php:277
+#: conferpress-shortcodes/shortcodes/post-grid.php:196
+#: conferpress-shortcodes/shortcodes/post-list.php:250
+#: conferpress-shortcodes/shortcodes/post-slider.php:303
+#: conferpress-shortcodes/shortcodes/post-timeline.php:210
+#: conferpress-shortcodes/shortcodes/product-woo.php:205
+msgid "None"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:234
+#: conferpress-shortcodes/shortcodes/post-carousel.php:283
+#: conferpress-shortcodes/shortcodes/post-grid.php:202
+#: conferpress-shortcodes/shortcodes/post-list.php:256
+#: conferpress-shortcodes/shortcodes/post-slider.php:309
+#: conferpress-shortcodes/shortcodes/post-timeline.php:216
+#: conferpress-shortcodes/shortcodes/product-woo.php:211
+msgid "Meta key"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:237
+#: conferpress-shortcodes/shortcodes/post-carousel.php:286
+#: conferpress-shortcodes/shortcodes/post-grid.php:205
+#: conferpress-shortcodes/shortcodes/post-list.php:259
+#: conferpress-shortcodes/shortcodes/post-slider.php:312
+#: conferpress-shortcodes/shortcodes/post-timeline.php:219
+#: conferpress-shortcodes/shortcodes/product-woo.php:214
+msgid "Name of meta key for ordering"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:243
+#: conferpress-shortcodes/shortcodes/post-carousel.php:292
+#: conferpress-shortcodes/shortcodes/post-grid.php:211
+#: conferpress-shortcodes/shortcodes/post-list.php:265
+#: conferpress-shortcodes/shortcodes/post-slider.php:318
+#: conferpress-shortcodes/shortcodes/post-timeline.php:225
+msgid "Event display"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:247
+#: conferpress-shortcodes/shortcodes/post-carousel.php:296
+#: conferpress-shortcodes/shortcodes/post-grid.php:215
+#: conferpress-shortcodes/shortcodes/post-list.php:269
+#: conferpress-shortcodes/shortcodes/post-slider.php:322
+#: conferpress-shortcodes/shortcodes/post-timeline.php:229
+msgid "Recent"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:248
+#: conferpress-shortcodes/shortcodes/post-carousel.php:297
+#: conferpress-shortcodes/shortcodes/post-grid.php:216
+#: conferpress-shortcodes/shortcodes/post-list.php:270
+#: conferpress-shortcodes/shortcodes/post-slider.php:323
+#: conferpress-shortcodes/shortcodes/post-timeline.php:230
+msgid "Custom"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:250
+#: conferpress-shortcodes/shortcodes/post-carousel.php:299
+#: conferpress-shortcodes/shortcodes/post-grid.php:218
+#: conferpress-shortcodes/shortcodes/post-list.php:272
+#: conferpress-shortcodes/shortcodes/post-slider.php:325
+#: conferpress-shortcodes/shortcodes/post-timeline.php:232
+msgid "Only work with post type is Event"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:254
+#: conferpress-shortcodes/shortcodes/post-carousel.php:303
+#: conferpress-shortcodes/shortcodes/post-grid.php:222
+#: conferpress-shortcodes/shortcodes/post-list.php:276
+#: conferpress-shortcodes/shortcodes/post-slider.php:329
+#: conferpress-shortcodes/shortcodes/post-timeline.php:236
+msgid "Event display custom start date"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:257
+#: conferpress-shortcodes/shortcodes/post-carousel.php:306
+#: conferpress-shortcodes/shortcodes/post-grid.php:225
+#: conferpress-shortcodes/shortcodes/post-list.php:279
+#: conferpress-shortcodes/shortcodes/post-slider.php:332
+#: conferpress-shortcodes/shortcodes/post-timeline.php:239
+msgid "Week ago"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:258
+#: conferpress-shortcodes/shortcodes/post-carousel.php:307
+#: conferpress-shortcodes/shortcodes/post-grid.php:226
+#: conferpress-shortcodes/shortcodes/post-list.php:280
+#: conferpress-shortcodes/shortcodes/post-slider.php:333
+#: conferpress-shortcodes/shortcodes/post-timeline.php:240
+msgid "Month ago"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:259
+#: conferpress-shortcodes/shortcodes/post-carousel.php:308
+#: conferpress-shortcodes/shortcodes/post-grid.php:227
+#: conferpress-shortcodes/shortcodes/post-list.php:281
+#: conferpress-shortcodes/shortcodes/post-slider.php:334
+#: conferpress-shortcodes/shortcodes/post-timeline.php:241
+msgid "Year ago"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:265
+#: conferpress-shortcodes/shortcodes/post-carousel.php:314
+#: conferpress-shortcodes/shortcodes/post-grid.php:233
+#: conferpress-shortcodes/shortcodes/post-list.php:287
+#: conferpress-shortcodes/shortcodes/post-slider.php:340
+#: conferpress-shortcodes/shortcodes/post-timeline.php:247
+msgid "Event display custom end date"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:268
+#: conferpress-shortcodes/shortcodes/post-carousel.php:317
+#: conferpress-shortcodes/shortcodes/post-grid.php:236
+#: conferpress-shortcodes/shortcodes/post-list.php:290
+#: conferpress-shortcodes/shortcodes/post-slider.php:343
+#: conferpress-shortcodes/shortcodes/post-timeline.php:250
+msgid "Next Week"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:269
+#: conferpress-shortcodes/shortcodes/post-carousel.php:318
+#: conferpress-shortcodes/shortcodes/post-grid.php:237
+#: conferpress-shortcodes/shortcodes/post-list.php:291
+#: conferpress-shortcodes/shortcodes/post-slider.php:344
+#: conferpress-shortcodes/shortcodes/post-timeline.php:251
+msgid "Next Month"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/blog.php:270
+#: conferpress-shortcodes/shortcodes/post-carousel.php:319
+#: conferpress-shortcodes/shortcodes/post-grid.php:238
+#: conferpress-shortcodes/shortcodes/post-list.php:292
+#: conferpress-shortcodes/shortcodes/post-slider.php:345
+#: conferpress-shortcodes/shortcodes/post-timeline.php:252
+msgid "Next Year"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/button.php:51
+msgid "Button"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/button.php:60
+msgid "Button Text"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/button.php:67
+msgid "Button Link"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/button.php:76
+#: conferpress-shortcodes/shortcodes/icon_box.php:100
+msgid "Open in new tab?"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/button.php:95
+msgid "Button Size"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/button.php:107
+msgid "Style"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/button.php:119
+msgid "Button Color"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/countdown_clock.php:18
+msgid "Days"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/countdown_clock.php:18
+msgid "Hrs"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/countdown_clock.php:18
+msgid "Mins"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/countdown_clock.php:18
+msgid "Secs"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/countdown_clock.php:73
+msgid "Countdown"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/countdown_clock.php:84
+msgid "Year:"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/countdown_clock.php:93
+msgid "Month"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/countdown_clock.php:102
+msgid "Day"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/countdown_clock.php:111
+msgid "Hour"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/countdown_clock.php:120
+msgid "Minute"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/countdown_clock.php:129
+msgid "Show Second?"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/countdown_clock.php:141
+msgid "Background Color"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/countdown_clock.php:150
+msgid "Number Color"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/heading.php:32
+#: conferpress-shortcodes/shortcodes/icon_box.php:84
+msgid "Heading"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/heading.php:43
+#: conferpress-shortcodes/shortcodes/heading.php:45
+#: conferpress-shortcodes/shortcodes/icon_box.php:87
+msgid "Heading text"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/heading.php:50
+msgid "Heading URL"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/heading.php:53
+msgid "Optional"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/heading.php:59
+msgid "Size"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/heading.php:71
+msgid "Align"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/heading.php:74
+#: conferpress-shortcodes/shortcodes/icon_box.php:122
+msgid "Left"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/heading.php:75
+#: conferpress-shortcodes/shortcodes/icon_box.php:123
+msgid "Right"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/heading.php:76
+#: conferpress-shortcodes/shortcodes/icon_box.php:124
+msgid "Center"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/icon_box.php:68
+msgid "Icon Boxes"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/icon_box.php:80
+msgid "FontAwesome 4.0+ icon name. For example: fa-star."
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/icon_box.php:91
+msgid "Link"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/icon_box.php:110
+#: conferpress-shortcodes/shortcodes/icon_box.php:113
+msgid "Content text"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/icon_box.php:119
+msgid "Layout"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/icon_box.php:132
+msgid "Icon Color"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/icon_box.php:141
+msgid "Icon Background Hover"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-carousel.php:114
+#: conferpress-shortcodes/shortcodes/post-list.php:117
+msgid "Buy Now"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-carousel.php:143
+msgid "Post Carousel"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-carousel.php:155
+msgid "Title of carousel header"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-carousel.php:162
+msgid "Font Awesome Icon (ex: fa-calendar)"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-carousel.php:166
+msgid "Link text"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-carousel.php:169
+msgid "Link text (ex: 'View All')"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-carousel.php:173
+msgid "Link URL"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-carousel.php:176
+msgid "If not set, link will not appear"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-carousel.php:182
+msgid "Show Carousel Header"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-carousel.php:191
+msgid "Carousel Header Background"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-carousel.php:236
+#: conferpress-shortcodes/shortcodes/post-grid.php:162
+#: conferpress-shortcodes/shortcodes/post-list.php:216
+#: conferpress-shortcodes/shortcodes/post-timeline.php:176
+#: conferpress-shortcodes/shortcodes/product-woo.php:171
+msgid "Number of posts to show. Default is 8"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-carousel.php:240
+msgid "Visible items"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-carousel.php:243
+msgid "Number of items visible in Carousel. Default is 4"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-grid.php:83
+msgid "Post Grid"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-grid.php:92
+msgid "Grid Columns Number"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-grid.php:95
+#: conferpress-shortcodes/shortcodes/post-list.php:161
+msgid "3 Column"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-grid.php:97
+msgid "4 Column"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-grid.php:99
+msgid "Default is 3"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-grid.php:103
+msgid "Has Padding"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-grid.php:113
+msgid "Show title without hover?"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-list.php:102
+msgid "Share"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-list.php:147
+msgid "Post List"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-list.php:156
+#: conferpress-shortcodes/shortcodes/product-woo.php:140
+msgid "Columns Number"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-list.php:163
+msgid "Default is 2"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-list.php:167
+msgid "Show Social Share?"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-slider.php:87
+#: conferpress-shortcodes/shortcodes/post-slider.php:107
+msgid "Detail"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-slider.php:89
+msgid "Get Ticket"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-slider.php:92
+msgid "Buy now"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-slider.php:97
+msgid "From  "
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-slider.php:174
+msgid "Post Slider"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-slider.php:185
+msgid "Slider Style"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-slider.php:188
+msgid "Centered"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-slider.php:189
+msgid "Align Left"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-slider.php:190
+msgid "Align Right"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-slider.php:195
+msgid "Auto play"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-slider.php:198
+msgid ""
+"Auto play timeout miliseconds (Ex: 3000 for 3 seconds, or 0 for no autoplay)"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-slider.php:204
+msgid "Enable Ken-Burns Effect (zoom effect)"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-slider.php:215
+msgid "Show Extra Meta"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-slider.php:224
+msgid "Custom Max Height"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-slider.php:227
+msgid "Enter slider max height in number of px (ex: 600), default is auto"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-slider.php:269
+msgid "Number of posts to show. Default is 3"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-timeline.php:49
+msgid "All day"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/post-timeline.php:129
+msgid "Post Timeline"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/pricing-table.php:106
+msgid "Pricing Table"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/pricing-table.php:114
+msgid "Column Title"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/pricing-table.php:124
+msgid "Background image"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/pricing-table.php:131
+msgid "Price"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/pricing-table.php:139
+msgid "Price Text"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/pricing-table.php:149
+msgid "Row"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/pricing-table.php:157
+msgid "Row Content"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/pricing-table.php:165
+msgid "CSS Class"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/product-woo.php:131
+msgid "Product Listing"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/product-woo.php:143
+msgid "From 1-6 (Default is 4)"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/testimonial.php:64
+msgid "Testimonials"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/testimonial.php:76
+msgid "Auto Scroll"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/testimonial.php:82
+msgid "Auto scroll Testimonials"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/testimonial.php:90
+msgid "Testimonial Item"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/testimonial.php:108
+msgid "Title of person (Ex: Professor)"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/testimonial.php:112
+msgid "Avatar"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/testimonial.php:115
+msgid "Avatar of person"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/testimonial.php:119
+msgid "Testimonial content"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/timeline.php:68
+msgid "Timeline"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/timeline.php:82
+msgid "Timeline Item"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/timeline.php:97
+msgid "Sub Title"
+msgstr ""
+
+#: conferpress-shortcodes/shortcodes/timeline.php:104
+msgid "Background"
+msgstr ""

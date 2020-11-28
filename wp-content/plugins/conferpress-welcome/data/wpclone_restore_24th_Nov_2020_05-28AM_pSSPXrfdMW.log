@@ -1,0 +1,25 @@
+Tuesday, 24-Nov-2020 05:28:47 - restore started
+Tuesday, 24-Nov-2020 05:28:47 - wp version     : 5.5.3
+Tuesday, 24-Nov-2020 05:28:47 - php version    : 7.3.21
+Tuesday, 24-Nov-2020 05:28:47 - mysql version  : 5.7.30
+Tuesday, 24-Nov-2020 05:28:47 - memory limit   : 1024M
+Tuesday, 24-Nov-2020 05:28:47 - execution time : 600
+Tuesday, 24-Nov-2020 05:28:47 - mysql timeout  : 
+Tuesday, 24-Nov-2020 05:28:47 - socket timeout : 600
+Tuesday, 24-Nov-2020 05:28:47 - file exists in the backup folder, filesize - 46.16 MB
+Tuesday, 24-Nov-2020 05:28:47 - extracting archive using ziparchive
+Tuesday, 24-Nov-2020 05:28:49 - copying all_demo files..
+Tuesday, 24-Nov-2020 05:28:50 - deleting temp all_demo directory..
+Tuesday, 24-Nov-2020 05:28:51 - file exists in the backup folder, filesize - 355.72 KB
+Tuesday, 24-Nov-2020 05:28:51 - extracting database using ziparchive
+Tuesday, 24-Nov-2020 05:28:51 - database import started
+Tuesday, 24-Nov-2020 05:28:51 - updating mysql query with current site's url - new query : "INSERT INTO wp_options VALUES("1", "siteurl", "https://liveevent:8890", "yes")"
+Tuesday, 24-Nov-2020 05:28:53 - mysql query failed. error : 1065 Query was empty - query : ""
+Tuesday, 24-Nov-2020 05:28:53 - database import finished
+Tuesday, 24-Nov-2020 05:28:53 - search and replace started
+Tuesday, 24-Nov-2020 05:28:53 - there are 28 tables to scan
+Tuesday, 24-Nov-2020 05:28:54 - search and replace finished
+Tuesday, 24-Nov-2020 05:28:54 - extracting archive using ziparchive
+Tuesday, 24-Nov-2020 05:28:54 - copying files..
+Tuesday, 24-Nov-2020 05:28:54 - deleting temp directory..
+Tuesday, 24-Nov-2020 05:28:54 - restore finished
