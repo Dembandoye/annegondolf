@@ -23,13 +23,13 @@
 define( 'DB_NAME', 'liveevent' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'external' );
 
 /** MySQL database password */
 define( 'DB_PASSWORD', 'M0zart4ever!' );
 
 /** MySQL hostname */
-define( 'DB_HOST', '142.93.244.193:3306' );
+define( 'DB_HOST', '142.93.8.81:3306' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
